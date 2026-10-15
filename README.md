@@ -244,4 +244,3 @@ National Institute of Technology, Silchar
 Built with curiosity, experimentation, and a passion for applied AI.
 
 </div>
-```
